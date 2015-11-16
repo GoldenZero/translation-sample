@@ -24,4 +24,3 @@ ch link and sync it with backend. backend will be able
 ato show this reports to thesdsdms d
  admin user, based on the links or  screens and user can compare multiple stats at the same time to check which link drive more traffic
 
-a
