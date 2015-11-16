@@ -1,0 +1,27 @@
+Yeeeeeee
+echo "# traducción-muestra" >> README.md
+init git
+git add README.md
+git commit -m "primero comprometerse"
+git remoto agregar origen git@github.com: GoldenZero / traducción-sample.git
+git push origin master -u
+... O empujar un repositorio existente desde la línea de comandos
+git remoto agregar origen git@github.com: GoldenZero / traducción-sample.git
+git push origin master -u
+... O código de importación desde otro repositorio
+
+Puede inicializar este repositorio con código de un proyecto Subversion, Mercurial o TFS.
+
+
+
+5 - enlaces profundos Informe:
+SDK contará el número de clics / abre para ea
+
+
+enlace ch y sincronización con backend. backend podrá
+
+
+ato mostrar este reporta a thesdsdms d
+usuario admin, con base en los enlaces o las pantallas y el usuario puede comparar varias estadísticas al mismo tiempo para comprobar que vinculan atraer más tráfico
+
+la
