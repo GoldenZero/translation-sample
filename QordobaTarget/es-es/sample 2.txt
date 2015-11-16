@@ -5,7 +5,7 @@ echo "# traducción-muestra" >> README.md
 s
 sssss
 init git
-git add README.md
+ssss sss git add README.md
 
 
 
