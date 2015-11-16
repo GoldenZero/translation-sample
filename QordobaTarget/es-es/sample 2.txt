@@ -1,9 +1,17 @@
 Yeeeeeee
 echo "# traducción-muestra" >> README.md
+
+
+s
+sssss
 init git
 git add README.md
+
+
+
+Yahoooo
 git commit -m "primero comprometerse"
-git remoto agregar origen git@github.com: GoldenZero / traducción-sample.git
+Yahoooooooooo
 git push origin master -u
 ... O empujar un repositorio existente desde la línea de comandos
 git remoto agregar origen git@github.com: GoldenZero / traducción-sample.git
