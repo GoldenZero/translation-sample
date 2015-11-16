@@ -21,5 +21,4 @@ SDK will count the number of clicks/opens for ea
 ch link and sync it with backend. backend will be able 
 
 
-ato show this reports to thesdsdms d
 
