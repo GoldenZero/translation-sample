@@ -1,0 +1,27 @@
+…or create a new repository on the command line
+echo "# translation-sample" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin git@github.com:GoldenZero/translation-sample.git
+git push -u origin master
+…or push an existing repository from the command line
+git remote add origin git@github.com:GoldenZero/translation-sample.git
+git push -u origin master
+…or import code from another repository
+
+You can initialize this repository with code from a Subversion, Mercurial, or TFS project.
+
+
+
+5 - DeepLinks Report:
+SDK will count the number of clicks/opens for ea
+
+
+ch link and sync it with backend. backend will be able 
+
+
+ato show this reports to thesdsdms d
+ admin user, based on the links or  screens and user can compare multiple stats at the same time to check which link drive more traffic
+
+a
